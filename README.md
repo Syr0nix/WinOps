@@ -1,4 +1,4 @@
-Here is the updated description in a **copy-paste-friendly format**:
+
 
 ---
 
