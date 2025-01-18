@@ -1,5 +1,5 @@
 
-Update A EXE APP IS COMEING SOON LATER NEXT YEAR!!!
+Update FIXED IPV6 DNS CONFIG IN Network Settings Optimization
 ---
 
 ### Windows Optimization, Activation, and Troubleshooting Script
