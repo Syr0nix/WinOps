@@ -1,5 +1,5 @@
 
-Update FIXED IPV6 DNS CONFIG IN Network Settings Optimization
+Update Adjust for Best Performance Now Will make your pc use all cores for boot makeing windows boot faster
 ---
 
 ### Windows Optimization, Activation, and Troubleshooting Script
