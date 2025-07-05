@@ -1,5 +1,5 @@
 
-Update Adjust for Best Performance Now Will make your pc use all cores for boot makeing windows boot faster
+Update: NEW EXE program DOWNLOAD .ZIP for EXE Version
 ---
 
 ### Windows Optimization, Activation, and Troubleshooting Script
