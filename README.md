@@ -4,7 +4,7 @@ Update: NEW EXE program DOWNLOAD .ZIP for EXE Version
 
 ### Windows Optimization, Activation, and Troubleshooting Script
 
-This powerful batch script, developed by **Syr0nix**, is designed for comprehensive Windows optimization, particularly for gamers and power users. It simplifies troubleshooting common issues and includes various options for network, storage, and system performance enhancements. With administrative privileges, users can execute individual tasks or choose a "Run All" option for a complete system optimization.
+This powerful App, developed by **Syr0nix**, is designed for comprehensive Windows optimization, particularly for gamers and power users. It simplifies troubleshooting common issues and includes various options for network, storage, and system performance enhancements. With administrative privileges, users can execute individual tasks or choose a "Run All" option for a complete system optimization.
 
 ---
 Warning Before Install Download Atlas OS https://atlasos.net
