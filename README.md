@@ -10,7 +10,7 @@
 **Update:**
 
 > ✅ **New EXE Build Available** – \[Download the `.ZIP` and extract to run\*\*]
-> Compatible with all modern Windows versions. Admin rights required.
+> Compatible with Windows 8.1, 10, and 11 versions. Admin rights required.
 
 ---
 
