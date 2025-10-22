@@ -3,27 +3,27 @@
 <img width="1232" height="824" alt="Screenshot 2025-07-14 005140" src="https://github.com/user-attachments/assets/66b54a10-71b2-4a8b-b2fd-6cb5fe481eb2" />
 <img width="1074" height="718" alt="Screenshot 2025-07-14 005144" src="https://github.com/user-attachments/assets/0c9b561f-4eb7-47ad-b7e9-7b42b9aef0cf" />
 
---
+---
 RedFox WinOps – EXE Utility for Windows Optimization, Activation & Maintenance
---
+---
 
 Update:
 ✅ New EXE Build Available – Download the ZIP and extract to run.
 Compatible with Windows 8.1, 10, and 11. Admin rights are required.
 
---
+---
 
 ⚠️ Recommended Setup
 For best results, install a clean performance OS such as Atlas OS before using RedFox WinOps.
 
---
+---
 
 Overview
 RedFox WinOps, developed by Syr0nix, is an all-in-one EXE utility for optimizing Windows performance—especially on gaming and high-performance systems. It offers a suite of tools for storage cleanup, networking fixes, visual performance tweaks, telemetry removal, and activation.
 
 You can use individual tools or click “Run All Procedures” for a full system tune-up.
 
---
+---
 
 🔧 Key Features & Procedures
 
@@ -66,7 +66,7 @@ System Utilities
 25. Install 7-Zip – Installs the latest 7-Zip build silently.
 26. Install WinRAR – Installs the newest WinRAR version for archive management.
 
---
+---
 
 🛠️ Run All Procedures
 The “Run All” function executes a curated sequence of tasks designed for a full performance tune-up. It’s best for:
@@ -76,4 +76,4 @@ The “Run All” function executes a curated sequence of tasks designed for a f
 • Windows cleanup
 • Low-end or high-latency hardware improvements
 
---
+---
