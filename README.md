@@ -1,6 +1,6 @@
 ## WinOps — Interface Preview
 
-Here’s a look at the latest WinOps UI build:
+Here’s a look at the latest WinOps UI build: https://github.com/Syr0nix/WinOps/releases/tag/WinOps
 
 <p align="center">
   <img width="720" alt="Screenshot 2025-11-01 121906" src="https://raw.githubusercontent.com/Syr0nix/WinOps/main/Screenshot%202025-11-01%20121906.png">
