@@ -24,14 +24,13 @@ Compatible with Windows 8.1, 10, and 11. Admin rights are required.
 ⚠️ Recommended Setup
 For best results, install a clean performance OS such as Atlas OS before using RedFox WinOps.
 
----
 
 Overview
 RedFox WinOps, developed by Syr0nix, is an all-in-one EXE utility for optimizing Windows performance—especially on gaming and high-performance systems. It offers a suite of tools for storage cleanup, networking fixes, visual performance tweaks, telemetry removal, and activation.
 
 You can use individual tools or click “Run All Procedures” for a full system tune-up.
 
----
+
 
 🔧 Key Features & Procedures
 
@@ -73,9 +72,6 @@ System Utilities
 24. Remove Windows Spyware – Deletes telemetry files, disables data collection services, and blocks known tracking hosts.
 25. Install 7-Zip – Installs the latest 7-Zip build silently.
 26. Install WinRAR – Installs the newest WinRAR version for archive management.
-
----
-
 🛠️ Run All Procedures
 The “Run All” function executes a curated sequence of tasks designed for a full performance tune-up. It’s best for:
 
