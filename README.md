@@ -16,7 +16,8 @@ RedFox WinOps – EXE Utility for Windows Optimization, Activation & Maintenance
 ---
 
 Update:
-✅ New EXE Build Available – Download the ZIP and extract to run.
+📢Join the discord FOR UPDATE Ideals  
+https://discord.gg/bJm7UnvM
 Compatible with Windows 8.1, 10, and 11. Admin rights are required.
 
 ---
