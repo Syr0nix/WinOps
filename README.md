@@ -41,6 +41,7 @@ System & Storage Maintenance
 7. Clear Event Logs – Empties Windows event logs to reduce clutter and logging overhead.
 
 Performance Tweaks
+
 8. Set Power Plan to High Performance – Enables “Ultimate Performance” for full CPU/GPU power.
 9. Adjust for Best Performance – Disables animations and effects that slow down older hardware.
 10. Clear RAM Cache – Frees cached memory to boost available system resources.
@@ -48,6 +49,7 @@ Performance Tweaks
 12. Upgrade All Packages – Automatically updates installed applications using Winget.
 
 Network Optimization
+
 13. Network Settings Optimization – Applies TCP tweaks for lower latency and better throughput.
 14. Flush DNS & Renew IP – Resets network configuration for a fresh connection.
 15. Clear ARP Cache – Deletes stale ARP entries to improve network accuracy.
@@ -55,15 +57,18 @@ Network Optimization
 17. Disable TCP Autotuning – Reduces bandwidth throttling for certain connections.
 
 Xbox & Game Services
+
 18. Disable Xbox Game Bar – Removes Xbox overlay and background services to free system resources.
 19. Enable Xbox Game Bar – Restores the Game Bar for users who prefer it.
 
 Activation & Licensing
+
 20. Check Windows Activation Status – Displays current activation state.
 21. Show Product Key – Reveals the installed Windows license key.
 22. KMS Activation – Applies valid activation keys for Windows editions through a key manager.
 
 System Utilities
+
 23. Restart to BIOS – Reboots directly into the BIOS/UEFI interface.
 24. Remove Windows Spyware – Deletes telemetry files, disables data collection services, and blocks known tracking hosts.
 25. Install 7-Zip – Installs the latest 7-Zip build silently.
