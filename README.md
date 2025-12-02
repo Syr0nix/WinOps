@@ -73,8 +73,6 @@ System Utilities
 24. Remove Windows Spyware – Deletes telemetry files, disables data collection services, and blocks known tracking hosts.
 25. Install 7-Zip – Installs the latest 7-Zip build silently.
 26. Install WinRAR – Installs the newest WinRAR version for archive management.
-🛠️ Run All Procedures
-The “Run All” function executes a curated sequence of tasks designed for a full performance tune-up. It’s best for:
 
  Fresh installs
  Gaming setups
