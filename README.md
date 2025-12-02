@@ -28,10 +28,6 @@ For best results, install a clean performance OS such as Atlas OS before using R
 Overview
 RedFox WinOps, developed by Syr0nix, is an all-in-one EXE utility for optimizing Windows performance—especially on gaming and high-performance systems. It offers a suite of tools for storage cleanup, networking fixes, visual performance tweaks, telemetry removal, and activation.
 
-You can use individual tools or click “Run All Procedures” for a full system tune-up.
-
-
-
 🔧 Key Features & Procedures
 
 System & Storage Maintenance
@@ -75,9 +71,7 @@ System Utilities
 🛠️ Run All Procedures
 The “Run All” function executes a curated sequence of tasks designed for a full performance tune-up. It’s best for:
 
-• Fresh installs
-• Gaming setups
-• Windows cleanup
-• Low-end or high-latency hardware improvements
-
----
+ Fresh installs
+ Gaming setups
+ Windows cleanup
+ Low-end or high-latency hardware improvements
