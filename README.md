@@ -34,6 +34,7 @@ run fix defender updates to fix 0x80070002
 then reboot
 
 https://discord.gg/bJm7UnvM
+
 Compatible with Windows 8.1, 10, and 11. Admin rights are required.
 
 ---
