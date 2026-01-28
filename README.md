@@ -29,6 +29,7 @@ RedFox WinOps – EXE Utility for Windows Optimization, Activation & Maintenance
 ---
 
 Update:
+Fix a Bug in activewindows.bat
 📢Join the discord FOR UPDATE Ideals  
 run fix defender updates to fix 0x80070002
 then reboot
